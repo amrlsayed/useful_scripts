@@ -18,7 +18,7 @@ int array[2];
 array[0] = 5;
 array[1] = 33;
 ```
-After appling the propable patterns below on a file containing the 
+After appling the proper patterns below on a file containing the 
 above strings. the file should be edited to.
 ```c
 #define FIRST_INDEX 0

@@ -1,5 +1,5 @@
 # Useful Scripts
----
+
 This repository should contain some useful scripts I use to accelerate the development time.
 ### remap_define_array.py
 This python 3 script open a file and replace the indexes of a C language array in the file with its C defined names
